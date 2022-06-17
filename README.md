@@ -22,6 +22,6 @@ http://data.seoul.go.kr/dataList/datasetList.do
    - LinearRegression
 
 4. flask를 활용하여 어플리케이션 제작 진행
-   - 아직 flask 사용이 미숙하여 결과 도출부분까지 제작은 진행중
+   - 면적을 입력하면 가격이 나오는 어플 제작완료
 
 
