@@ -41,7 +41,7 @@ def main():
     if request.method == "POST":
         
         # Unpickle classifier
-        salary_model = joblib.load("salary_model.pkl")
+        salary_model = joblib.load("C:/Users/JEON_SANGEON/codestates/project/toy/project_land/flask_app/salary_model.pkl")
         
         # Get values through input bars
         면적 = request.form.get("면적")
